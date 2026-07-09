@@ -150,17 +150,6 @@ Artificial Intelligence · Enterprise Software · Open Source · Research · Cyb
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IstiaqAhmedNabil&show_icons=true&theme=default&hide_border=true&title_color=10304A&icon_color=2E5D8A&text_color=333333" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IstiaqAhmedNabil&hide_border=true&background=FFFFFF&ring=2E5D8A&fire=10304A&currStreakLabel=10304A" alt="GitHub Streak" height="165"/>
-
-</div>
-
-<br>
-
 ## Let's Connect
 
 <div align="center">
