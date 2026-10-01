@@ -26,7 +26,6 @@ name:      Istiaq Ahmed Nabil
 role:      Software Engineer — SaaS & enterprise systems
 studio:    NetJet Labs  # independent engineering studio
 studying:  B.Sc. Computer Science & Engineering
-languages: [Bengali, English, Arabic]
 
 builds:
   - multi-tenant SaaS platforms (ERP, school & business ops)
@@ -189,7 +188,7 @@ flowchart LR
 + designing    tenant isolation strategies for multi-tenant SaaS
 + learning     distributed systems · cloud infrastructure · DevOps
 + learning     advanced software architecture at SaaS scale
-+ shipping     new features to SalafiaX in production
++ shipping     multiple code bases in production
 ```
 
 <details>
@@ -199,21 +198,6 @@ flowchart LR
 Artificial Intelligence · SaaS Architecture · Distributed Systems · Enterprise Software · Cyber Security · Computer Vision · NLP · Robotics & Embedded Systems · Space Technology · Open Source
 
 </details>
-
-<br/>
-
-<!-- ───────────────────────────────  STATS  ─────────────────────────────── -->
-
-### `$ gh stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IstiaqAhmedNabil&show_icons=true&hide_border=true&bg_color=0B1E33&title_color=5B9BD5&icon_color=5B9BD5&text_color=C9D6E3&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IstiaqAhmedNabil&layout=compact&hide_border=true&bg_color=0B1E33&title_color=5B9BD5&text_color=C9D6E3&langs_count=8" alt="Top languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IstiaqAhmedNabil&bg_color=0B1E33&color=C9D6E3&line=5B9BD5&point=ffffff&area=true&area_color=2E5D8A&hide_border=true" alt="Contribution activity" />
-
-</div>
 
 <br/>
 
